@@ -1,2 +1,4 @@
 # Jogo-da-Forca_Hangman-Game
-Português: Jogo da forca em Python. English: Hangman Game in Python.
+Português: Jogo da forca em Python. Este programa irá sortear uma palavra de 3 listas: verbos, substantivos 3 adjetivos, todos sem acentos. Em seguida, contruirá a forca e o usuário poderá errar até 6 vezes tentando adivinhar letras. Caso ele queira tentar a palavra certa, só terá um chance. Sempre que o usuário digitar, o programa irá verificar: se ele digitou algo; se digitou uma das opções disponíveis; se digitou somente letras; e se só digitou uma letra ao tentar adivinhar só pelas letras.
+
+English: Hangman Game in Python. This program will draw a word from 3 lists: verbs, nouns and adjectives. Then, ir will build the gallow and the user can make up to 6 mistakes trying to guess the letters. If he wants to try to guess the draw word, he will have only one chance. Whenever the user types, the program will verifies: if he typed something, if he typed one of the available options, if he typed just letters, and if he typed just one letter when attempt to guess just by the letters.
